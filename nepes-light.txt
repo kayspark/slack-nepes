@@ -1,0 +1,4 @@
+# Nepes Light — Slack sidebar theme
+# Paste into Slack → Preferences → Themes → Custom
+# Column BG, Menu BG Hover, Active Item, Active Item Text, Hover Item, Text Color, Active Presence, Mention Badge
+FFFFFF,D8D7D7,23438E,1C1C1E,E7E6E6,3A3A3E,2A8030,C4181F
