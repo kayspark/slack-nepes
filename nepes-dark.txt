@@ -1,4 +1,4 @@
 # Nepes Dark — Slack sidebar theme
 # Paste into Slack → Preferences → Themes → Custom
 # Column BG, Menu BG Hover, Active Item, Active Item Text, Hover Item, Text Color, Active Presence, Mention Badge
-161412,3E3A38,6A84CA,DCD8D4,2E2C2A,B6B0AC,43AD49,E1575C
+161412,3E3A38,5C8CFF,DCD8D4,2E2C2A,B6B0AC,3DDC84,FF5C5C
